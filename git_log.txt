@@ -1,0 +1,78 @@
+commit 23fc0d50d15b9e01656e4e55e6186e16eb6b2982
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Sun Sep 14 23:04:31 2025 -0700
+
+    Create README.md
+
+commit 5ac609ee1646eada8561b93477003c581475af5c
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Sun Sep 14 23:01:47 2025 -0700
+
+    Create repo-location.txt
+
+commit becd12619f3e7d380249ac8bcb4a5aabcc527953
+Merge: f37cdce 70d48d1
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Sun Sep 14 22:59:36 2025 -0700
+
+    On main: !!GitHub_Desktop<main>
+
+commit 70d48d1c417612cdf1e7371288daef8a800e2a0a
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Sun Sep 14 22:59:36 2025 -0700
+
+    index on main: f37cdce Replicate assignment-1 index
+
+commit 6e2dbe87bb8a97d0ccc5357438fc7bf9270a79e3
+Merge: 3f41392 f37cdce
+Author: okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Sun Sep 14 22:51:58 2025 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 3f41392c3080dbd5f0eee11b6ca0733931122313
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Sun Sep 14 22:46:22 2025 -0700
+
+    Update index.html
+    
+    Updatiing blanks for feature about me
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
